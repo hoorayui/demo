@@ -33,7 +33,7 @@ Before you move on, go ahead and explore the repository. You've already seen the
 
 ---11
 1
-2
+git
 
 ## Clone a repository
 
